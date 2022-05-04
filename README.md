@@ -11,5 +11,5 @@
 - [Calculus: Early Transcendentals (10e) Solutions ~Howard Anton, Irl Bivens, and Stephen Davis](calculus/calculus-early-transcendentals-10th-ed-howard-anton-iril-bivens-stephen-davis-solution2.pdf)
 - [Calculus: Early Transcendentals (9e) ~Howard Anton, Irl Bivens, and Stephen Davis](calculus/calculus-howard-anton-9e.pdf)
 - [Calculus, Volume 2 ~Tom Apostol](calculus/tom-apostol-calculus-vol-2.pdf)
-- [Calculus, Volume 1 ~Tom Apostol](calculus/tom-apostol-vol-1-One-variable Calculus-with-Introduction-to-Linear-Algebra-1975.pdf)
-- [Calculus, Volume 1 (Solutions) ~Tom Apostol](calclus/tom-apostol-vol-1-One-variable Calculus-with-Introduction-to-Linear-Algebra-1975-solutions.pdf)
+- [Calculus, Volume 1 ~Tom Apostol](calculus/tom-apostol-vol-1-One-variable-Calculus-with-Introduction-to-Linear-Algebra-1975.pdf)
+- [Calculus, Volume 1 (Solutions) ~Tom Apostol](calclus/tom-apostol-vol-1-One-variable-Calculus-with-Introduction-to-Linear-Algebra-1975-solutions.pdf)
