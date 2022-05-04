@@ -22,3 +22,9 @@
 - [A First Course in Complex Analysis Solutions Manual ~Denis Zill](complex-analysis/dennis-zill-a-first-course-in-complex-analysis-solutions-manual.pdf)
 - [The Geometry of Möbius Transformations ~John Olsen](complex-analysis/mobeus-rochester.pdf)
 - [Geometry of Möbius Transformations Elliptic parabolic and Hyperbolic Actions of SL2R ~Vladmir V. Kisil](complex-analysis/vladmir-modius.pdf)
+
+## Computer Networks
+- [Computer Networks ~Andrew S. Tanenbaum](computer-networks/Computer-Networks-A-Tanenbaum-5e.pdf)
+
+## Computer Programs Structure
+- []()
