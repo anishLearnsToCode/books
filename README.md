@@ -189,8 +189,18 @@
 ## Scala
 - [Programming in Scala ~Bill Venners, Martin Odersky](scala/Programming-in-Scala.pdf)
 
-## The Art of Computer Programming
+## The Art of Computer Programming ~ Donald Knuth
 - [The Art of Computer Programming Volume I: Fundamental Algorithms ~Donald Knuth](the-art-of-computer-programming/The-Art-of-Computer-Programming-1.pdf)
 - [The Art of Computer Programming Volume II: Seminumerical Algorithms ~Donald Knuth](the-art-of-computer-programming/The-Art-Of-Computer-Programming-2-Seminumerical-Algorithms.pdf)
 - [The Art of Computer Programming Volume III: Sorting and Searching ~Donald Knuth](the-art-of-computer-programming/The-Art-of-Computer-Programming-3-Sorting-and-Searching.pdf)
 - [The Art of Computer Programming Volume IV: Generating all ntuples ~Donald Knuth](the-art-of-computer-programming/The-Art-Of-Computer-Programming-4-Generating-All-ntuples.pdf)
+
+## Theory of Computation
+- [Introduction to the Theory of Computation ~Michael Sipser](theory-of-computation/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)
+
+## Theory of Game Hunting
+- [A Contribution to the Mathematical Theory of Big Game Hunting ~H. Petard](theory-of-game-hunting/theory-of-game-hunting.pdf)
+
+## Topology
+- [Introduction to Topology and Modern Analysis ~George F. Simmons](topology/Introduction-to-Topology-and-Modern-Analysis.pdf)
+- [Vector Bundles & K-Theory ~Allen Hatcher](topology/K-Theory.pdf)
