@@ -106,3 +106,10 @@
 - [JAX-RS: Java™ API for RESTful Web Services ~Pavel Bucek, Santiago Pericas-Geertsen](java/RESTful-Web-Services-in-Java.pdf)
 - [Spring 5 Recipes: A Problem-Solution Approach ~Daniel Rubio, Josh Long, and Marten Deinum](java/Spring-5-Recipes-4e.pdf)
 - [Thinking in Java 4e ~Bruce Eckel](java/Thinking-in-Java-4e.pdf)
+
+## Linear Algebra
+- [Convex Optimization ~Lieven Vandenberghe, Stephen P. Boyd](linear-algebra/convex-optimization-boyd.pdf)
+- [Hilbert Spaces Notes](linear-algebra/hilbert-spaces-notes.pdf)
+- [Introductory functional analysis with applications ~Erwin Kreyszig](linear-algebra/Kreyszig-Introductory-Functional-Analysis-with-Applications.pdf)
+- [Schaum's Outline of Linear Algebra ~Marc Lipson, Seymour Lipschutz](linear-algebra/Linear-Algebra-4e-2009-Lipschutz-Lipson-schaum.pdf)
+- [Introduction to Linear Algebra, 4th Edition ~Gilbert Strang](linear-algebra/Linear-algebra-and-its-applications-strang-g-4e.pdf)
