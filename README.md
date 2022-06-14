@@ -79,3 +79,16 @@
 ## Fuzzy Logic
 - [Fuzzy Sets and Fuzzy Logic: Theory and Applications ~George Klir](fuzzy-logic/fuzzy-set-and-fuzzy-logic-klir.pdf)
 - [Introduction to Fuzzy Sets, Fuzzy Logic, and Fuzzy Control Systems ~Chen Guanrong, Trung Tat Pham](fuzzy-logic/introduction-to-fuzzy-set-and-fuzzy-logic.pdf)
+
+## Game Theory
+- [Game Theory: An Introduction ~Steven Tadelis](game-theory/Game-Theory-An-Introduction.pdf)
+- [Game Theory: An Introduction Solutions Manual ~Steven Tadelis](game-theory/game-theory-an-introduction-solutions-manual.pdf)
+
+## Graph Theory
+- [A First Course in Graph Theory ~Gary Chartrand, Ping Zhang](graph-theory/A-First-Course-in-Graph-Theory.pdf)
+- [Graph Theory and Complex Networks: An Introduction (Solutions Manual) ~Marten van Steen](graph-theory/an-introduction-to-graph-theory-and-complex-networks-problems.pdf)
+- [Graph Theory with Applications ~J. A. Bondy, U. S. R. Murty](graph-theory/Graph-Theory-by-Bondy-and-Murty.pdf)
+- [Graphs & Digraphs ~ Gary Chartrand](graph-theory/Graps-&-digraphs-by-Chartrand.pdf)
+- [Introduction to Graph Theory 2e (with Solutions Manual) ~Douglas West](graph-theory/Introduction-to-Graph-Theory-2e-(With-Solution-Manual).pdf)
+- [Introduction to Graph Theory 2e Solutions Manual ~Douglas West](graph-theory/Solution-Manual-for-Introduction-to-Graph-Theory-2e.pdf)
+- [Schaum's Outline of Graph Theory ~V. K. Balakrishnan](graph-theory/Schaums-Outline-of-Theory-and-Problems-of-Graph-Theory.pdf)
