@@ -185,3 +185,12 @@
 - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming ~Eric Matthes](python/python-crash-course.pdf)
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython ~Wes McKinney](python/python-for-data-analysis-2e.pdf)
 - [Python in a nutshell ~Alex Martelli](python/python-in-a-nutshell-3e.pdf)
+
+## Scala
+- [Programming in Scala ~Bill Venners, Martin Odersky](scala/Programming-in-Scala.pdf)
+
+## The Art of Computer Programming
+- [The Art of Computer Programming Volume I: Fundamental Algorithms ~Donald Knuth](the-art-of-computer-programming/The-Art-of-Computer-Programming-1.pdf)
+- [The Art of Computer Programming Volume II: Seminumerical Algorithms ~Donald Knuth](the-art-of-computer-programming/The-Art-Of-Computer-Programming-2-Seminumerical-Algorithms.pdf)
+- [The Art of Computer Programming Volume III: Sorting and Searching ~Donald Knuth](the-art-of-computer-programming/The-Art-of-Computer-Programming-3-Sorting-and-Searching.pdf)
+- [The Art of Computer Programming Volume IV: Generating all ntuples ~Donald Knuth](the-art-of-computer-programming/The-Art-Of-Computer-Programming-4-Generating-All-ntuples.pdf)
