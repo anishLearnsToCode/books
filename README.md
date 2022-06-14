@@ -59,3 +59,10 @@
 - [Digital Signal Processing with Matlab Examples, Volume 2: Decomposition, Recovery, Data-Based Actions ~Jose Maria Giron-Sierra](digital-signal-processing/dsp-with-Matlab-Examples-Volume-2_Decomposition-Recovery-Data-Based-Actions.pdf)
 - [Digital Signal Processing with Matlab Examples, Volume 3: Model-Based Actions and Sparse Representation ~Jose Maria Giron-Sierra](digital-signal-processing/dsp-with-Matlab-Examples-Volume-3_Model-Based-Actions-and-Sparse-Representation.pdf)
 - [Signal Processing for Communications ~Martin Vetterli, Paolo Prandoni](digital-signal-processing/signal-processing-for-communications.pdf)
+
+## Engineering Mathematics
+- [Advanced Engineering Mathematics 9e ~Erwin Kreyszig](engineering-mathematics/advanced-engineering-mathematics-kreyszig-9e.pdf)
+- [Advanced Engineering Mathematics 9e Solutions Manual ~Erwin Kreyszig](engineering-mathematics/advanced-engineering-mathematics-kreyszig-solutions-9e.pdf)
+- [Advanced Engineering Mathematics 10e ~Erwin Kreyszig](engineering-mathematics/advanced-engineering-mathematics-kreyszig-10e.pdf)
+- [Modern Engineering Mathematics ~Glyn James](engineering-mathematics/engineering-mathematics-glyn-james.pdf)
+- [Modern Engineering Mathematics Solutions Manual ~Glyn James](engineering-mathematics/engineering-mathematics-glyn-james-solutions.pdf)
