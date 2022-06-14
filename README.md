@@ -124,3 +124,8 @@
 - [Machine Learning: An Algorithmic Perspective ~Stephen Marsland](machine-learning/Machine-Learning-An-Algorithmic-Perspective-2e.pdf)
 - [Neural Networks, 2e ~Simon S. Haykin](machine-learning/Neural-Networks-A-Comprehensive-Foundation-Simon-Haykin.pdf)
 - [The Hundred-Page Machine Learning Book ~Andriy Burkov](machine-learning/The-hundred-page-machine-learning-book.pdf)
+
+## Mathemtaical Modelling and Simulation
+- [Mathematical Modeling and Simulation: Introduction for Scientists and Engineers ~Kai Velten](mathematical-modelling-simulation/mathematical-modelling-simulation-kai-velten.pdf)
+- [Mathematical Modelling with Case Studies: Using Maple and MATLAB, Third Edition ~Belinda Barnes, Glenn Fulford](mathematical-modelling-simulation/net_mathematical-modelling-with-case-studies.pdf)
+- [Introduction to Mathematical Modeling and Chaotic Dynamics ~Ranjit Kumar Upadhyay, S. R. K. Iyengar](mathematical-modelling-simulation/Ranjit-Kumar-Upadhyay-Satteluri-R.K.Iyengar-Introduction-to-Mathematical-Modeling-and-Chaotic-Dynamics-Chapman-and-Hall_CRC-(2013).pdf)
