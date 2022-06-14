@@ -58,3 +58,4 @@
 - [Digital Signal Processing with Matlab Examples, Volume 1: Signals and Data, Filtering, Non-stationary Signals, Modulation ~Jose Maria Giron-Sierra](digital-signal-processing/dsp-with-Matlab-Examples-Volume-1_Signals-and-Data-Filtering-Non-stationary-Signals-Modulation)
 - [Digital Signal Processing with Matlab Examples, Volume 2: Decomposition, Recovery, Data-Based Actions ~Jose Maria Giron-Sierra](digital-signal-processing/dsp-with-Matlab-Examples-Volume-2_Decomposition-Recovery-Data-Based Actions.pdf)
 - [Digital Signal Processing with Matlab Examples, Volume 3: Model-Based Actions and Sparse Representation ~Jose Maria Giron-Sierra](digital-signal-processing/dsp-with-Matlab-Examples-Volume-3_Model-Based-Actions-and-Sparse-Representation.pdf)
+- [Signal Processing for Communications ~Martin Vetterli, Paolo Prandoni](digital-signal-processing/signal-processing-for-communications.pdf)
