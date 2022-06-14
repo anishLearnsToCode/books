@@ -66,3 +66,12 @@
 - [Advanced Engineering Mathematics 10e ~Erwin Kreyszig](engineering-mathematics/advanced-engineering-mathematics-kreyszig-10e.pdf)
 - [Modern Engineering Mathematics ~Glyn James](engineering-mathematics/engineering-mathematics-glyn-james.pdf)
 - [Modern Engineering Mathematics Solutions Manual ~Glyn James](engineering-mathematics/engineering-mathematics-glyn-james-solutions.pdf)
+
+## Financial Engineering
+- [Introduction to the economics and mathematics of financial markets ~Jakša Cvitanić](financial-engineering/economics-and-mathematics-of-financial-markets-mit-press.pdf)
+- [Introduction to the economics and mathematics of financial markets Solutions Manual ~Jakša Cvitanić](financial-engineering/economics-and-mathematics-of-financial-markets-mit-solutions-manual.pdf)
+- [Financial calculus: An introduction to derivative pricing ~Martin Baxter](financial-engineering/financial-calculus-an-introduction-to-derivative-pricing.pdf)
+- [Financial Mathematics: An Introduction ~Suresh Chandra, S. Dharmaraja, Aparna Mehra, R. Khemchandani](financial-engineering/financial-engineering-dharmraj.pdf)
+- [Financial Mathematics I (MATH-1510, University of Leeds) ~Jitse Niesen](financial-engineering/financial-mathematics-university-of-leeds.pdf)
+- [Mathematics for Finance: An Introduction to Financial Engineering ~Marek Capiński, T.J. Zastawniak](financial-engineering/Mathematics-for-Finance-An-Introduction-to-Financial-Engineering-Capinski.pdf)
+- [Modern Derivatives Pricing and Credit Exposure Analysis: Theory and Practice of CSA and XVA Pricing, Exposure Simulation and Backtesting ~Donald Arthur Gallagher, R. Stamm](financial-engineering/modern-deriviative-pricing-and-credit-exposre-analysis-palgrave.pdf)
