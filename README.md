@@ -153,3 +153,18 @@
 - [Mathematical Methods in the Physical Sciences ~Mary L. Boas](physics/mathematical-methods-in-physical-sciences.pdf)
 - [Mathematical Methods in the Physical Sciences Solution Manual ~Mary L. Boas](physics/mathematical-methods-in-physical-sciences-solutions-manual.pdf)
 - [University Physics ~Hugh D. Young](physics/University-Physics-with-Modern-Physics-13e.pdf)
+
+## 🎹 Piano
+- [Sound at Sight Book 1 ~Trinity Collge of London](piano/sound-at-sight-book-1.pdf)
+
+## 📈 Probability and Statistics
+- [Probability with Applications in Engineering, Science, and Technology (Solutions Manual) ~Matthew A. Carlton, Jay L. Devore](probability-statistics/CarltonDevore_SM-for-students.pdf)
+- [Fifty Challenging Problems in Probability with Solutions ~Frederick Mosteller](probability-statistics/fifty-challenging-problems-in-probability-with-solutions.pdf)
+- [Introduction to Probability Models ~Sheldon M. Ross](probability-statistics/introduction-to-probability-model-s.ross.pdf)
+- [Introduction to Probability Models (Solutions Manual) ~Sheldon M. Ross](probability-statistics/introduction-to-probability-models-s.ross-solutions.pdf)
+- [Probability and Statistics for Engineers and Scientists ~Anthony J. Hayter](probability-statistics/Probability-and-Statistics-for-Engineers-and-Scientists-anthony-hayter.pdf)
+- [Probability and Statistics for Engineers and Scientists Solutions Manual ~Anthony J. Hayter](probability-statistics/Probability-and-Statistics-for-Engineers-and-Scientists-anthony-hayter-solutions.pdf)
+- [Stochastic Processes ~Richard F. Bass](probability-statistics/Richard-F-Bass-Stochastic-Processes.pdf)
+- [Stochastic processes ~Sheldon M. Ross](probability-statistics/Stochastic-Processes-sheldon-m-ross.pdf)
+
+## 
