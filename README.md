@@ -37,3 +37,16 @@
 - [The Codebreakers ~David Kahn](cryptography/the-codebreakers-davaid-kahn.pdf)
 - [The Manga Guide to Cryptography ~Idero Hinoki, Masaaki Mitani, and Shinichi Sato](cryptography/The-Manga-Guide-to-Cryptography.pdf)
 - [Understanding Cryptography: A Textbook for Students and Practitioners ~Christof Paar and Jan Pelzl](cryptography/Understanding-Cryptography-by-Christof-Paar.pdf)
+
+## Database Management Systems (DBMS)
+- [Database System Concepts (6e) ~Avi Silberschatz, Henry F. Korth, S. Sudarshan](database-management-systems/Database-System-Concepts-6e.pdf)
+
+## Differential Equations and Partial Differential Equations (DE + PDE)
+- [Differential Equations with Boundary-value Problems ~Dennis G. Zill](differential-equations-and-pde/DIFFERENTIAL-EQUATIONS-with-Boundary-Value-Problemsa-Zill-Cullen.pdf)
+- [Elementary Differential Equations ~Lee W Johnson, Werner E. Kohler](differential-equations-and-pde/elementary-de-kohler-johnson.pdf)
+- [Elementary Differential Equations Solutions Manual ~Lee W Johnson, Werner E. Kohler](differential-equations-and-pde/elementary-de-kohler-johnson-solutions)
+- [Applied Partial Differential Equations with Fourier Series and Boundary Value Problems (1987) ~Richard Haberman](differential-equations-and-pde/applied-pde-haberman.pdf)
+- [Applied Partial Differential Equations with Fourier Series and Boundary Value Problems Solutions Manual (1987) ~Richard Haberman](differential-equations-and-pde/applied-pde-haberman-solutions-manual.pdf)
+- [Schaum's Outline of Differential Equations, 3e ~Gabriel B. Costa, Richard Bronson](differential-equations-and-pde/schaums-outline-of-differential-equation.pdf)
+- [Schaum's Outline of Partial Differential Equations ~David W. Zachmann, Paul DuChateau](differential-equations-and-pde/schaums-theory-and-problems-of-partial-differential-equations.pdf)
+
