@@ -100,3 +100,9 @@
 - [Elements of Information Theory 2e ~Joy A. Thomas, Thomas M. Cover](information-theory/Wiley-Interscience-Elements-of-Information-Theory-2006.pdf) 
 
 ## ☕ Java
+- [Effective Java 3e ~Joshua Bloch](java/effective-java-2017.pdf)
+- [Java: The Complete Reference 9e ~Herbert Schildt](java/Java-The-Complete-Reference-9e-Herbert-Schildt.pdf)
+- [Java Concurrency in Practice ~Brian Goetz](java/Java-concurrency-in-practice.pdf)
+- [JAX-RS: Java™ API for RESTful Web Services ~Pavel Bucek, Santiago Pericas-Geertsen](java/RESTful-Web-Services-in-Java.pdf)
+- [Spring 5 Recipes: A Problem-Solution Approach ~Daniel Rubio, Josh Long, and Marten Deinum](java/Spring-5-Recipes-4e.pdf)
+- [Thinking in Java 4e ~Bruce Eckel](java/Thinking-in-Java-4e.pdf)
