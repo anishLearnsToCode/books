@@ -137,3 +137,11 @@
 - [A Primer on Neural Network Models for Natural Language Processing ~Yoav Goldberg](natural-language-processing/a-primer-on-neural-network-models-for-natural-language-processing.pdf)
 - [Natural Language Processing with Python ~Edward Loper, Ewan Klein, Steven Bird](natural-language-processing/Natural-Language-Processing-with-Python.pdf)
 - [Speech and Language Processing ~Daniel Jurafsky, James H. Martin](natural-language-processing/speech-and-language-processing-jurafsky.pdf)
+
+## Object Oriented Design
+- [Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D ~Brett McLaughlin](object-oriented-design/Head-First-Object-Oriented-Design-and-Analysis-O'Reilly.pdf)
+
+## 💾 Operating Systems
+- [Operating System Concepts ~Avi Silberschatz, Greg Gagne, Peter Baer Galvin](operating-systems/Abraham-Silberschatz-Operating-System-Concepts.pdf)
+
+## 
