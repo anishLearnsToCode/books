@@ -27,4 +27,13 @@
 - [Computer Networks ~Andrew S. Tanenbaum](computer-networks/Computer-Networks-A-Tanenbaum-5e.pdf)
 
 ## Computer Programs Structure
-- []()
+- [Structure and Interpretation of Computer Programs ~Gerald Jay Sussman, Hal Abelson](computer-programs-structure/structure-and-interpretation-of-computer-programs-mit.pdf)
+
+## Cryptography
+- [Cryptography & Network Security ~Behrouz A. Forouzan](cryptography/Cryptography-and-Network-Security-Forouzan.pdf)
+- [Cryptography and Network Security ~Atul Kahate](cryptography/cryptography-network-security-atul-kahate.pdf)
+- [Cryptography and Network Security ~Atul Kahate](cryptography/cryptography-network-security-atul-kahate.pdf)
+- [Cryptography Theory and Practice (2019) ~Douglas Robert Stinson, Maura Paterson](cryptography/Stinson-Paterson_CryptographyTheoryAndPractice-CRC-Press-(2019).pdf)
+- [The Codebreakers ~David Kahn](cryptography/the-codebreakers-davaid-kahn.pdf)
+- [The Manga Guide to Cryptography ~Idero Hinoki, Masaaki Mitani, and Shinichi Sato](cryptography/The-Manga-Guide-to-Cryptography.pdf)
+- [Understanding Cryptography: A Textbook for Students and Practitioners ~Christof Paar and Jan Pelzl](cryptography/Understanding-Cryptography-by-Christof-Paar.pdf)
