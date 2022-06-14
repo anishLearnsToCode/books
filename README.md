@@ -6,6 +6,9 @@
 ## Artificial Intelligence
 - [Artificial Intelligence, A Modern Approach (2e) ~Stuart Russel & Peter Norvig](artificial-intelligence/artificial-intelligence-a-modern-approach.pdf)
 
+## Autobiographies
+- [A Mathematician's Apology ~G. H. Hardy](autobiography/A-Mathematicians-Apology.pdf)
+
 ## Calculus
 - [Analysis & It's History (2008) ~Heirer Wanner](calculus/Analysis%20by%20Its%20History%202008%20Heirer%20Wanner.pdf)
 - [Calculus: Early Transcendentals (10e) Solutions ~Howard Anton, Irl Bivens, and Stephen Davis](calculus/calculus-early-transcendentals-10th-ed-howard-anton-iril-bivens-stephen-davis-solution2.pdf)
@@ -204,3 +207,4 @@
 ## Topology
 - [Introduction to Topology and Modern Analysis ~George F. Simmons](topology/Introduction-to-Topology-and-Modern-Analysis.pdf)
 - [Vector Bundles & K-Theory ~Allen Hatcher](topology/K-Theory.pdf)
+- [Flatland ~Edwin Abbott Abbott](topology/flatland.pdf)
