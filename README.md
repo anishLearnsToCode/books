@@ -144,4 +144,12 @@
 ## 💾 Operating Systems
 - [Operating System Concepts ~Avi Silberschatz, Greg Gagne, Peter Baer Galvin](operating-systems/Abraham-Silberschatz-Operating-System-Concepts.pdf)
 
-## 
+## Philosophy
+- [The Prince ~Niccolò Machiavelli](philosophy/the-prince.pdf)
+
+## 🍎 Physics
+- [Classical Mechanics ~John R. Taylor](physics/Classical-Mechanics-John-Taylor.pdf)
+- [Classical Mechanics Solutions Manual ~John R. Taylor](physics/Classical-Mechanics-John-Taylor-solutions.pdf)
+- [Mathematical Methods in the Physical Sciences ~Mary L. Boas](physics/mathematical-methods-in-physical-sciences.pdf)
+- [Mathematical Methods in the Physical Sciences Solution Manual ~Mary L. Boas](physics/mathematical-methods-in-physical-sciences-solutions-manual.pdf)
+- [University Physics ~Hugh D. Young](physics/University-Physics-with-Modern-Physics-13e.pdf)
