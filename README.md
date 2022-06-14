@@ -75,3 +75,7 @@
 - [Financial Mathematics I (MATH-1510, University of Leeds) ~Jitse Niesen](financial-engineering/financial-mathematics-university-of-leeds.pdf)
 - [Mathematics for Finance: An Introduction to Financial Engineering ~Marek Capiński, T.J. Zastawniak](financial-engineering/Mathematics-for-Finance-An-Introduction-to-Financial-Engineering-Capinski.pdf)
 - [Modern Derivatives Pricing and Credit Exposure Analysis: Theory and Practice of CSA and XVA Pricing, Exposure Simulation and Backtesting ~Donald Arthur Gallagher, R. Stamm](financial-engineering/modern-deriviative-pricing-and-credit-exposre-analysis-palgrave.pdf)
+
+## Fuzzy Logic
+- [Fuzzy Sets and Fuzzy Logic: Theory and Applications ~George Klir](fuzzy-logic/fuzzy-set-and-fuzzy-logic-klir.pdf)
+- [Introduction to Fuzzy Sets, Fuzzy Logic, and Fuzzy Control Systems ~Chen Guanrong, Trung Tat Pham](fuzzy-logic/introduction-to-fuzzy-set-and-fuzzy-logic.pdf)
