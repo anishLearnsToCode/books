@@ -167,4 +167,5 @@
 - [Stochastic Processes ~Richard F. Bass](probability-statistics/Richard-F-Bass-Stochastic-Processes.pdf)
 - [Stochastic processes ~Sheldon M. Ross](probability-statistics/Stochastic-Processes-sheldon-m-ross.pdf)
 
-## 
+## Professional Ethics and Human Values
+- [Professional Ethics and Human Values ~R. S. Naagarazan](professional-ethics-and-human-values/Professional-Ethics-and-Human-Values-by-R.S-NAAGARAZAN.pdf)
