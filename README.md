@@ -113,3 +113,14 @@
 - [Introductory functional analysis with applications ~Erwin Kreyszig](linear-algebra/Kreyszig-Introductory-Functional-Analysis-with-Applications.pdf)
 - [Schaum's Outline of Linear Algebra ~Marc Lipson, Seymour Lipschutz](linear-algebra/Linear-Algebra-4e-2009-Lipschutz-Lipson-schaum.pdf)
 - [Introduction to Linear Algebra, 4th Edition ~Gilbert Strang](linear-algebra/Linear-algebra-and-its-applications-strang-g-4e.pdf)
+
+## Machine Learning
+- [Artificial Intelligence: A Modern Approach ~Peter Norvig, Stuart J. Russell](machine-learning/Artificial-Intelligence-A-Modern-Approach-(3rd-Edition).pdf)
+- [Pattern Recognition and Machine Learning ~Christopher Bishop](machine-learning/Bishop-Pattern-Recognition-And-Machine-Learning-Springer-2006.pdf)
+- [Data Science from Scratch: First Principles with Python ~Joel Grus](machine-learning/Data-Science-from-Scratch.pdf)
+- [Deep Learning with Python ~François Chollet](machine-learning/deep-learning-with-python-francois-chollet.pdf)
+- [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems ~Geron Aurelien](machine-learning/Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems.pdf)
+- [Introduction To Pattern Recognition And Machine Learning ~M. Narasimha Murty, V. Susheela Devi](machine-learning/Introduction-to-Pattern-Recognition-and-Machine-Learning.pdf)
+- [Machine Learning: An Algorithmic Perspective ~Stephen Marsland](machine-learning/Machine-Learning-An-Algorithmic-Perspective-2e.pdf)
+- [Neural Networks, 2e ~Simon S. Haykin](machine-learning/Neural-Networks-A-Comprehensive-Foundation-Simon-Haykin.pdf)
+- [The Hundred-Page Machine Learning Book ~Andriy Burkov](machine-learning/The-hundred-page-machine-learning-book.pdf)
