@@ -169,3 +169,15 @@
 
 ## Professional Ethics and Human Values
 - [Professional Ethics and Human Values ~R. S. Naagarazan](professional-ethics-and-human-values/Professional-Ethics-and-Human-Values-by-R.S-NAAGARAZAN.pdf)
+
+## Programming Practices 
+- [Clean Code ~Robert Cecil Martin](programming-best-practices/clean-code.pdf)
+- [Don't Make Me Think: A common sense approach to web usability ~Steve Krug](programming-best-practices/dont-make-me-think-a-common-sense-approach-to-web-usability-2e.pdf)
+- [Programming Pearls ~Jon Bentley](programming-best-practices/programming-pearls-2e.pdf)
+- [The Mythical Man-Month ~Fred Brooks](programming-best-practices/the-mythical-man-month.pdf)
+- [The Pragmatic Programmer ~Andy Hunt, Dave Thomas](programming-best-practices/The-Pragmatic-Programmer-From-Journeyman-To-Master-Andrew-Hunt-David-Thomas-Addison-Wesley-1999.pdf)
+
+## Programming Interview
+- [Cracking the Coding Interview ~Gayle Laakmann McDowell](programming-interview/programming-interview/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
+
+## 
