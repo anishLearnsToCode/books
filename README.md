@@ -92,3 +92,11 @@
 - [Introduction to Graph Theory 2e (with Solutions Manual) ~Douglas West](graph-theory/Introduction-to-Graph-Theory-2e-(With-Solution-Manual).pdf)
 - [Introduction to Graph Theory 2e Solutions Manual ~Douglas West](graph-theory/Solution-Manual-for-Introduction-to-Graph-Theory-2e.pdf)
 - [Schaum's Outline of Graph Theory ~V. K. Balakrishnan](graph-theory/Schaums-Outline-of-Theory-and-Problems-of-Graph-Theory.pdf)
+
+## Information Theory
+- [A First Course in Information Theory ~Raymond W. Yeung](information-theory/a-first-course-in-information-theory.pdf) 
+- [Information Theory and Network Coding ~Raymond W. Yeung](information-theory/infomation-theory-and-network-coding.pdf) 
+- [Information Theory, Inference and Learning Algorithms ~David J. C. MacKay](information-theory/information-theory-inference-learning-algorithms-cambridge.pdf) 
+- [Elements of Information Theory 2e ~Joy A. Thomas, Thomas M. Cover](information-theory/Wiley-Interscience-Elements-of-Information-Theory-2006.pdf) 
+
+## ☕ Java
