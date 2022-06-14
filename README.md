@@ -180,4 +180,8 @@
 ## Programming Interview
 - [Cracking the Coding Interview ~Gayle Laakmann McDowell](programming-interview/programming-interview/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
 
-## 
+## 🐍 Python
+- [Programming Python ~Mark Lutz](python/programming-python-4e.pdf)
+- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming ~Eric Matthes](python/python-crash-course.pdf)
+- [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython ~Wes McKinney](python/python-for-data-analysis-2e.pdf)
+- [Python in a nutshell ~Alex Martelli](python/python-in-a-nutshell-3e.pdf)
