@@ -129,3 +129,11 @@
 - [Mathematical Modeling and Simulation: Introduction for Scientists and Engineers ~Kai Velten](mathematical-modelling-simulation/mathematical-modelling-simulation-kai-velten.pdf)
 - [Mathematical Modelling with Case Studies: Using Maple and MATLAB, Third Edition ~Belinda Barnes, Glenn Fulford](mathematical-modelling-simulation/net_mathematical-modelling-with-case-studies.pdf)
 - [Introduction to Mathematical Modeling and Chaotic Dynamics ~Ranjit Kumar Upadhyay, S. R. K. Iyengar](mathematical-modelling-simulation/Ranjit-Kumar-Upadhyay-Satteluri-R.K.Iyengar-Introduction-to-Mathematical-Modeling-and-Chaotic-Dynamics-Chapman-and-Hall_CRC-(2013).pdf)
+
+## ➕ Math Overview
+- [CRC Standard Mathematical Tables and Formulae](math-overview/standard-mathematical-tables-and-formulae.pdf)
+
+## Natural Language Processing
+- [A Primer on Neural Network Models for Natural Language Processing ~Yoav Goldberg](natural-language-processing/a-primer-on-neural-network-models-for-natural-language-processing.pdf)
+- [Natural Language Processing with Python ~Edward Loper, Ewan Klein, Steven Bird](natural-language-processing/Natural-Language-Processing-with-Python.pdf)
+- [Speech and Language Processing ~Daniel Jurafsky, James H. Martin](natural-language-processing/speech-and-language-processing-jurafsky.pdf)
