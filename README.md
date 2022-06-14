@@ -50,3 +50,11 @@
 - [Schaum's Outline of Differential Equations, 3e ~Gabriel B. Costa, Richard Bronson](differential-equations-and-pde/schaums-outline-of-differential-equation.pdf)
 - [Schaum's Outline of Partial Differential Equations ~David W. Zachmann, Paul DuChateau](differential-equations-and-pde/schaums-theory-and-problems-of-partial-differential-equations.pdf)
 
+## Digital Image Processing
+- [Digital Image Processing, 3e (2008) ~Rafael C. GONZALES, Richard Eugene Woods](digital-image-processing/digital-image-processing-gonzales.pdf)
+- [OpenCV: Computer Vision Projects with Python ~Joseph Howse, Michael Beyeler, Prateek Joshi](digital-image-processing/opencv-projects-with-python.pdf)
+
+## Digital Signal Processing
+- [Digital Signal Processing with Matlab Examples, Volume 1: Signals and Data, Filtering, Non-stationary Signals, Modulation ~Jose Maria Giron-Sierra](digital-signal-processing/dsp-with-Matlab-Examples-Volume-1_Signals-and-Data-Filtering-Non-stationary-Signals-Modulation)
+- [Digital Signal Processing with Matlab Examples, Volume 2: Decomposition, Recovery, Data-Based Actions ~Jose Maria Giron-Sierra](digital-signal-processing/dsp-with-Matlab-Examples-Volume-2_Decomposition-Recovery-Data-Based Actions.pdf)
+- [Digital Signal Processing with Matlab Examples, Volume 3: Model-Based Actions and Sparse Representation ~Jose Maria Giron-Sierra](digital-signal-processing/dsp-with-Matlab-Examples-Volume-3_Model-Based-Actions-and-Sparse-Representation.pdf)
